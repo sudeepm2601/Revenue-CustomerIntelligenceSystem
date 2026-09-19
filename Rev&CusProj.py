@@ -231,9 +231,9 @@ country_orders = (
 
 print(country_orders)
 
-#df.to_csv(r"C:\Users\Sudeep M\Desktop\Revenue&CustomerIntelligenceSystem\Cleaned_Data.csv",index=False)
+df.to_csv(r"C:\Users\Sudeep M\Desktop\Revenue&CustomerIntelligenceSystem\Cleaned_Data.csv",index=False)
 
-#print("Cleaned data saved successfully!")
+print("Cleaned data saved successfully!")
 
-#print("Current wprking directory ")
-#print(os.getcwd())
+print("Current wprking directory ")
+print(os.getcwd())
